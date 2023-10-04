@@ -1,3 +1,8 @@
+ul>li:hover{
+background-color: rgb(224, 123, 40);
+color: beige;
+}
+
 h1{
     color: rgb(51, 22, 78);
     background-color: antiquewhite;
